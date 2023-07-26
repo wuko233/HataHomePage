@@ -1,0 +1,13 @@
+.card {
+    display: flex ;
+    width: 80rem;
+    height: 50rem;
+    background: #74D2FF ;
+    border-radius: 1.5rem;
+    margin: 10% auto;
+    box-shadow: 30%;
+}
+.left {
+background-image:url(background.png) ;
+background-size: 400px 400px;
+}
